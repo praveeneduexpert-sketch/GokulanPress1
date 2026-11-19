@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Gokulan Press & Offset;;;
+FN:Gokulan Press & Offset
+ORG:Gokulan Press & Offset
+TITLE:Printing & Creative Solutions
+NOTE:Quality That Builds Trust. Print • Design • Create.\nMobile: +91 96982 05266\nWhatsApp: +91 87781 89353\nInstagram: https://www.instagram.com/gokulan_press/\nGoogle Maps: https://www.google.com/maps/place/Gokulan+Press+%26+Offset/@12.9415422,78.858919,745m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bad6d7c72f04c2b:0x57271371500294a1!8m2!3d12.941537!4d78.8614939!16s%2Fg%2F11x_n014v5\nLocation: Gudiyatham, Vellore District, Tamil Nadu, India.
+TEL;TYPE=CELL,VOICE,PREF:+919698205266
+item1.TEL:+918778189353
+item1.X-ABLabel:WhatsApp
+item2.URL:https://www.instagram.com/gokulan_press/
+item2.X-ABLabel:Instagram
+item3.URL:https://www.google.com/maps/place/Gokulan+Press+%26+Offset/@12.9415422,78.858919,745m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bad6d7c72f04c2b:0x57271371500294a1!8m2!3d12.941537!4d78.8614939!16s%2Fg%2F11x_n014v5
+item3.X-ABLabel:Google Maps Location
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/gokulan_press/
+URL:https://www.instagram.com/gokulan_press/
+ADR;TYPE=WORK:;;Gudiyatham;Vellore District;Tamil Nadu;;India
+GEO:12.941537;78.8614939
+END:VCARD
